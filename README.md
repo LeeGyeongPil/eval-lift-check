@@ -174,8 +174,9 @@ Formulas and sources: [`skills/eval-lift-check/references/statistics.md`](skills
 | Tasks solved without it (baseline) | 0/7 |
 | Mean score gain (Δ) | +0.68 |
 | Tasks that catch a broken script | 7/7 |
+| Codex CLI | not verified |
 
-Measured 2026-11-27 with Claude Code 2.1.332 · sonnet · 3 runs per case
+Measured 2026-11-27 with Claude Code 2.1.332 · sonnet · 3 runs per case · codex-cli 0.154.0
 <!-- skill-eval:end -->
 
 What the rows mean: trigger prompts and near-miss prompts come from `evals/`; a task counts as solved when the answer quotes the exact values the script prints; "baseline" is the same agent without the skill; "catch a broken script" means the task checks fail when a deliberately broken copy of the statistics code is used. Behaviour in other agents was not measured.
