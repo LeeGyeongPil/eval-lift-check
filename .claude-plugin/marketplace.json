@@ -1,0 +1,12 @@
+{
+  "name": "eval-lift-check-skill",
+  "owner": {"name": "LeeGyeongPil"},
+  "description": "Agent skill that checks whether an eval improvement is statistically real.",
+  "plugins": [
+    {
+      "name": "eval-lift-check",
+      "source": "./",
+      "description": "Paired significance check for eval runs: exact McNemar, cluster-robust errors, required N, Holm."
+    }
+  ]
+}

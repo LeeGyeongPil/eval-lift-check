@@ -1,0 +1,10 @@
+{
+  "name": "eval-lift-check",
+  "version": "0.1.0",
+  "description": "Pairs two or more eval runs item by item and decides with exact McNemar, cluster-robust errors, required N and Holm whether the candidate really beats the baseline.",
+  "author": {"name": "LeeGyeongPil"},
+  "license": "MIT",
+  "homepage": "https://github.com/LeeGyeongPil/eval-lift-check",
+  "repository": "https://github.com/LeeGyeongPil/eval-lift-check",
+  "keywords": ["evals", "statistics", "mcnemar", "paired-test", "agent-skill"]
+}
