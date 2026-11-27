@@ -1,0 +1,12 @@
+description: tiny echo eval
+prompts:
+  - "Answer: {{q}}"
+providers:
+  - echo
+tests:
+  - vars: {q: "alpha"}
+    assert: [{type: contains, value: "alpha"}]
+  - vars: {q: "beta"}
+    assert: [{type: contains, value: "gamma"}]
+  - vars: {q: "delta"}
+    assert: [{type: contains, value: "delta"}]

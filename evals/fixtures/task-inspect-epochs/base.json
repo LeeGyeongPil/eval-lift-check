@@ -1,0 +1,1180 @@
+{
+ "version": 2,
+ "status": "success",
+ "eval": {
+  "task": "rubric",
+  "model": "mockllm/model"
+ },
+ "samples": [
+  {
+   "id": "q00",
+   "epoch": 1,
+   "input": "question 0",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.48,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q01",
+   "epoch": 1,
+   "input": "question 1",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.44,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q02",
+   "epoch": 1,
+   "input": "question 2",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.61,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q03",
+   "epoch": 1,
+   "input": "question 3",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.28,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q04",
+   "epoch": 1,
+   "input": "question 4",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.32,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q05",
+   "epoch": 1,
+   "input": "question 5",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.12,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q06",
+   "epoch": 1,
+   "input": "question 6",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.81,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q07",
+   "epoch": 1,
+   "input": "question 7",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.53,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q08",
+   "epoch": 1,
+   "input": "question 8",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.8,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q09",
+   "epoch": 1,
+   "input": "question 9",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.4,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q10",
+   "epoch": 1,
+   "input": "question 10",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.84,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q11",
+   "epoch": 1,
+   "input": "question 11",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.5,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q12",
+   "epoch": 1,
+   "input": "question 12",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.43,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q13",
+   "epoch": 1,
+   "input": "question 13",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.6,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q14",
+   "epoch": 1,
+   "input": "question 14",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.42,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q15",
+   "epoch": 1,
+   "input": "question 15",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.56,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q16",
+   "epoch": 1,
+   "input": "question 16",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.94,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q17",
+   "epoch": 1,
+   "input": "question 17",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.76,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q18",
+   "epoch": 1,
+   "input": "question 18",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.68,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q19",
+   "epoch": 1,
+   "input": "question 19",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.69,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q20",
+   "epoch": 1,
+   "input": "question 20",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.8,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q21",
+   "epoch": 1,
+   "input": "question 21",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.26,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q22",
+   "epoch": 1,
+   "input": "question 22",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.62,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q23",
+   "epoch": 1,
+   "input": "question 23",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.42,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q24",
+   "epoch": 1,
+   "input": "question 24",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.33,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q25",
+   "epoch": 1,
+   "input": "question 25",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.67,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q26",
+   "epoch": 1,
+   "input": "question 26",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 1.0,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q27",
+   "epoch": 1,
+   "input": "question 27",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.36,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q28",
+   "epoch": 1,
+   "input": "question 28",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.73,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q29",
+   "epoch": 1,
+   "input": "question 29",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.7,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q00",
+   "epoch": 2,
+   "input": "question 0",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.55,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q01",
+   "epoch": 2,
+   "input": "question 1",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.34,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q02",
+   "epoch": 2,
+   "input": "question 2",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.5,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q03",
+   "epoch": 2,
+   "input": "question 3",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.17,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q04",
+   "epoch": 2,
+   "input": "question 4",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.47,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q05",
+   "epoch": 2,
+   "input": "question 5",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.16,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q06",
+   "epoch": 2,
+   "input": "question 6",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.74,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q07",
+   "epoch": 2,
+   "input": "question 7",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.84,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q08",
+   "epoch": 2,
+   "input": "question 8",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.64,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q09",
+   "epoch": 2,
+   "input": "question 9",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.34,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q10",
+   "epoch": 2,
+   "input": "question 10",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.43,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q11",
+   "epoch": 2,
+   "input": "question 11",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.25,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q12",
+   "epoch": 2,
+   "input": "question 12",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.67,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q13",
+   "epoch": 2,
+   "input": "question 13",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.59,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q14",
+   "epoch": 2,
+   "input": "question 14",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.56,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q15",
+   "epoch": 2,
+   "input": "question 15",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.42,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q16",
+   "epoch": 2,
+   "input": "question 16",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.74,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q17",
+   "epoch": 2,
+   "input": "question 17",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.49,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q18",
+   "epoch": 2,
+   "input": "question 18",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.32,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q19",
+   "epoch": 2,
+   "input": "question 19",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.76,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q20",
+   "epoch": 2,
+   "input": "question 20",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.62,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q21",
+   "epoch": 2,
+   "input": "question 21",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.42,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q22",
+   "epoch": 2,
+   "input": "question 22",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.71,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q23",
+   "epoch": 2,
+   "input": "question 23",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.65,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q24",
+   "epoch": 2,
+   "input": "question 24",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.5,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q25",
+   "epoch": 2,
+   "input": "question 25",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.48,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q26",
+   "epoch": 2,
+   "input": "question 26",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.81,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q27",
+   "epoch": 2,
+   "input": "question 27",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.66,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q28",
+   "epoch": 2,
+   "input": "question 28",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.47,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q29",
+   "epoch": 2,
+   "input": "question 29",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.65,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q00",
+   "epoch": 3,
+   "input": "question 0",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.3,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q01",
+   "epoch": 3,
+   "input": "question 1",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.36,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q02",
+   "epoch": 3,
+   "input": "question 2",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.61,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q03",
+   "epoch": 3,
+   "input": "question 3",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.31,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q04",
+   "epoch": 3,
+   "input": "question 4",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.62,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q05",
+   "epoch": 3,
+   "input": "question 5",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.34,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q06",
+   "epoch": 3,
+   "input": "question 6",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.8,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q07",
+   "epoch": 3,
+   "input": "question 7",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.69,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q08",
+   "epoch": 3,
+   "input": "question 8",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.84,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q09",
+   "epoch": 3,
+   "input": "question 9",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.49,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q10",
+   "epoch": 3,
+   "input": "question 10",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.56,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q11",
+   "epoch": 3,
+   "input": "question 11",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.41,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q12",
+   "epoch": 3,
+   "input": "question 12",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.61,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q13",
+   "epoch": 3,
+   "input": "question 13",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.46,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q14",
+   "epoch": 3,
+   "input": "question 14",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.26,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q15",
+   "epoch": 3,
+   "input": "question 15",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.6,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q16",
+   "epoch": 3,
+   "input": "question 16",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.92,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q17",
+   "epoch": 3,
+   "input": "question 17",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.46,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q18",
+   "epoch": 3,
+   "input": "question 18",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.24,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q19",
+   "epoch": 3,
+   "input": "question 19",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.9,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q20",
+   "epoch": 3,
+   "input": "question 20",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.44,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q21",
+   "epoch": 3,
+   "input": "question 21",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.44,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q22",
+   "epoch": 3,
+   "input": "question 22",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.63,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q23",
+   "epoch": 3,
+   "input": "question 23",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.46,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q24",
+   "epoch": 3,
+   "input": "question 24",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.12,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q25",
+   "epoch": 3,
+   "input": "question 25",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.43,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q26",
+   "epoch": 3,
+   "input": "question 26",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.5,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q27",
+   "epoch": 3,
+   "input": "question 27",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.72,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q28",
+   "epoch": 3,
+   "input": "question 28",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.39,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  },
+  {
+   "id": "q29",
+   "epoch": 3,
+   "input": "question 29",
+   "target": "a",
+   "scores": {
+    "rubric": {
+     "value": 0.72,
+     "answer": "a"
+    }
+   },
+   "metadata": {}
+  }
+ ]
+}
